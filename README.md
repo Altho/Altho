@@ -34,4 +34,4 @@ Although I have barely started deeping my toes in it , I am very interested in l
 ------
 I am currently open to jobs and collaborations. I am open to any project based on web technologies . My portfolio, http://www.altho.me is currently in the work, in the meanwhile you can email me ! 
 
-![Altho's stats](https://github-readme-stats.vercel.app/api?username=altho&show_icons=true&theme=radical)
+![Altho's stats](https://github-readme-stats.vercel.app/api?username=altho&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altho)](https://github.com/anuraghazra/github-readme-stats)
