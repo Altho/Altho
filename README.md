@@ -39,9 +39,9 @@ I am currently open to jobs and collaborations. I am open to any project based o
 ------
 
 <a href="https://github.com/altho/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=altho&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=altho&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/altho/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altho&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altho&layout=compact" />
 </a>
  
