@@ -1,6 +1,6 @@
 **👋 Hello, I'm Alan Thomas**
 ------
-I am a junior web developper. I am passionated about learning new things. Right now I am using mainly Next.js and Node.js but I am open to learn any new technology. I have recently completed my first commission based on Next.js and Strapi (with custom lifecycles) featuring i18n, SSR and SGR. I am very proud of it and have learned a ton with it , even if a big part of that is what I would do differently :)
+I am a web developper ! I am passionated about learning new things. Right now I am using mainly Next.js and Node.js but I am open to learn any new technology. I have recently completed my first commission based on Next.js and Strapi (with custom lifecycles) featuring i18n, SSR and SGR. I am very proud of it and have learned a ton with it , even if a big part of that is what I would do differently :)
 
 **🌱 What am I currently learning ?**
 ------
