@@ -15,26 +15,21 @@ I am working on becoming a better programmer by focusing on :
 - Design pattern
 - Unit testing
 
-My objective is to become a good programmer , regardless of framework or language. Technolgy wise, I am currently working with and learning :
+My objective is to become a good programmer , regardless of framework or language. Technolgy wise, I am currently working with :
 
 - Next.js and React
+- Angular
 - Typescript
 - Unit testing with Jest and React-Testing-Library
-- Mantine
-- Express.js
+- Fastify
 - GraphQL
-- PostgreSQL
 - Prisma
 - Firebase
-- Strapi
 
-I have currently two projects in the work that I am excited about. One will be a multiplayer game that uses Typescript and Websocket ! The other one will be a full fledged full stack app made with Nest.Js (on Fastify) , Prisma, Postgres and Next.js.
-
-Although I have barely started deeping my toes in it , I am very interested in learning Rust and Svelte.
 
 **📫 Contact me !**
 ------
-I am currently open to jobs and collaborations. I am open to any project based on web technologies . My portfolio, http://www.altho.me is currently in the work, in the meanwhile you can email me ! 
+I am currently open to jobs and collaborations. I am open to any project based on web technologies . My portfolio, https://www.altho.dev
 
 ------
 
